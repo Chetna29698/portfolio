@@ -1,0 +1,146 @@
+#project{
+    height: auto;
+    width: 100%;
+    /* background-color: thistle; */
+}
+#project h3{
+    font-size: 40px;
+    padding-left: 170px;
+    padding-top: 38px;
+}
+#project hr{
+    width: 1200px;
+    margin-left: 130px;
+}
+
+/* -----------------------------first project---------------------- */
+#first-project{
+    height: 400px;
+    width: 1000px;
+    margin-left: 220px;
+    /* background-color: coral; */
+    display: flex;   
+}
+#first-project .text{
+    margin-left: 50px;
+}
+#first-project .text h2{
+    font-size: 30px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+#first-project .text p{
+    font-size: 17px;
+    padding-top: 10px;
+}
+#first-project .text .blood-btn{
+    padding: 8px 25px 8px 25px;
+    position: relative;
+    top: 10px;
+    left: 130px;
+    background-color: rgb(44, 130, 242);
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+#first-project .text .blood-btn:hover{
+    background-color: grey;
+}
+#first-project .text .icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: 35px;
+    right: 50px;
+}
+
+
+/* ----------------------------second project------------------------- */
+#second-project{
+    height: 400px;
+    width: 1000px;
+    margin-left: 220px;
+    margin-top: 100px;
+    /* background-color: coral; */
+    display: flex;   
+}
+#second-project .text{
+    margin-left: 50px;
+}
+#second-project .text h2{
+    font-size: 30px;
+    padding-left: 170px;
+    padding-top: 20px;
+}
+#second-project .text p{
+    font-size: 17px;
+    padding-top: 10px;
+}
+#second-project .text .blood-btn{
+    padding: 8px 25px 8px 25px;
+    position: relative;
+    top: 10px;
+    left: 130px;
+    background-color: rgb(44, 130, 242);
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+#second-project .text .blood-btn:hover{
+    background-color: grey;
+}
+#second-project .text .icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: 35px;
+    right: 50px;
+}
+
+/* ---------------------third project------------------------ */
+#third-project{
+    height: 400px;
+    width: 1000px;
+    margin-left: 220px;
+    margin-top: 100px;
+    /* background-color: coral; */
+    display: flex;   
+}
+#third-project .text{
+    margin-left: 50px;
+}
+#third-project .text h2{
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+#third-project .text p{
+    font-size: 17px;
+    padding-top: 10px;
+}
+#third-project .text .blood-btn{
+    padding: 8px 25px 8px 25px;
+    position: relative;
+    top: 10px;
+    left: 130px;
+    background-color: rgb(44, 130, 242);
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+#third-project .text .blood-btn:hover{
+    background-color: grey;
+}
+#third-project .text .icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: 35px;
+    right: 50px;
+}

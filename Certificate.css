@@ -1,0 +1,28 @@
+#certificate{
+    height: auto;
+    width: 100%;
+    /* background-color: rgb(241, 158, 241); */
+    
+}
+#certificate h3{
+    font-size: 40px;
+    padding-left: 170px;
+    padding-top: 38px;
+}
+#certificate hr{
+    width: 1200px;
+    margin-left: 130px;
+}
+#certificate #content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#certificate #content img,h4{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#certificate #content h4{
+    font-size: 30px;
+}

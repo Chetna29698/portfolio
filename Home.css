@@ -1,0 +1,40 @@
+#home{
+    height: 580px;
+    width: 100%;
+    /* background-color: antiquewhite; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.image{
+    margin-left: 80px;
+}
+#content{
+    /* background-color: aquamarine; */
+    margin-left: 90px;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+#content h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+#content small{
+    font-size: 24px;
+    line-height: 50px;
+}
+#content p{
+    font-size: 17px;
+    line-height: 35px;
+}
+#content .btn-home{
+    background-color: rgb(44, 130, 242);
+    color: white;
+    border: none;
+    padding: 15px 25px 15px 25px;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-top: 20px;
+}

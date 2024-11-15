@@ -1,0 +1,28 @@
+#skill{
+    height: 800px;
+    width: 100%;
+    /* background-color: rgb(191, 233, 235); */
+}
+#skill h3{
+    font-size: 40px;
+    padding-left: 170px;
+    padding-top: 38px;
+}
+#skill hr{
+    width: 1200px;
+    margin-left: 130px;
+    height: 5px;
+}
+#skill-grid{
+    height: 600px;
+    width: 87%;
+    /* background-color: yellowgreen; */
+    margin-left: 160px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 50px;
+}
+#skill-grid .grid:hover{
+    transform: scale(1.1);
+}
